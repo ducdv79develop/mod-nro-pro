@@ -943,7 +943,7 @@ namespace Assets.src.g
 			case 1005:
 				try
 				{
-					GameMidlet.instance.platformRequest("https://nrobluez.me/");
+					GameMidlet.instance.platformRequest("https://ngocrongmabu.online/");
 					break;
 				}
 				catch (Exception ex2)

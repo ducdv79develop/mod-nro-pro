@@ -2470,7 +2470,7 @@ namespace Mod
             }
 			int num = 10;
 			int num2 = 200;
-		mFont.tahoma_7_red.drawStringBorder(g, "DRAGON BALL 9", 15,30,mFont.LEFT,mFont.tahoma_7);
+		mFont.tahoma_7_red.drawStringBorder(g, "Ngoc Rong Mabu", 15,30,mFont.LEFT,mFont.tahoma_7);
 			mFont.tahoma_7b_red.drawStringBorder(g, "FPS: "+ Main.main.max, 85, 30, mFont.LEFT, mFont.tahoma_7);
 			mFont.tahoma_7b_yellowSmall2.drawString(g, NinjaUtil.getMoneys((long)global::Char.myCharz().cHP), 90, 5, mFont.LEFT);
 			mFont.tahoma_7b_yellowSmall2.drawString(g, NinjaUtil.getMoneys((long)global::Char.myCharz().cMP), 90, 17, mFont.LEFT);
@@ -2795,7 +2795,7 @@ namespace Mod
 			}
             
 
-			var logo = mSystem.loadImage("/mainImage/logo1.png");
+			var logo = mSystem.loadImage("/mainImage/logo1E.png");
             g.drawImage(logo, GameCanvas.w / 2, 35, 3);
             paintString(g);
             if (jkl)

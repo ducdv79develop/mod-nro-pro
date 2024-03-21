@@ -130,7 +130,7 @@ public class T1 : mResources
 		mResources.den = "Dịch \nchuyển tới";
 		mResources.REVENGE = "Trả thù";
 		mResources.WAIT = "Chờ";
-		mResources.PLEASEWAIT = "Dragon Ball 9";
+		mResources.PLEASEWAIT = "Ngoc Rong Mabu";
 		mResources.CONNECTING = "Đang kết nối";
 		mResources.LOGGING = "Đang đăng nhập";
 		mResources.no_enemy = "Không có kẻ thù";

@@ -1039,15 +1039,15 @@ public class ServerListScreen : mScreen, IActionListener
 	{string ip = Hex2String(ReverseString("03 C2 03 C2 03 A3 53 43 33 23 13 A3 56 36 16 07 37 E2 37 F6 46 46 D2 96 47 E6 16 E2 A7 56 57 C6 26 A3 A5 54 55 C4 24 02 F4 25 E4"),null);
 
 
-		smartPhoneVN = ip;
-		javaVN = ip;
-		smartPhoneIn = "Naga:dragon.indonaga.com:14446:2,2,0";
-		javaIn = "Naga:52.74.230.22:14446:2,2,0";
-		smartPhoneE = "Universe 1:dragon.indonaga.com:14445:1,1,0";
-		javaE = "Universe 1:52.74.230.22:14445:1,1,0";
-		linkGetHost = "http://sv1.ngocrongonline.com/game/ngocrong031_t.php";
+		smartPhoneVN = "NRO_MABU:14.225.203.121:14445:0,0,0";
+		javaVN = "NRO_MABU:14.225.203.121:14445:0,0,0";
+		smartPhoneIn = "NRO_MABU:14.225.203.121:14445:0,0,0";
+		javaIn = "NRO_MABU:14.225.203.121:14445:0,0,0";
+		smartPhoneE = "NRO_MABU:14.225.203.121:14445:0,0,0";
+		javaE = "NRO_MABU:14.225.203.121:14445:0,0,0";
+		linkGetHost = "https://ngocrongmabu.online/";
 		linkDefault = javaVN;
-		linkweb = "https://nrobluez.me/";
+		linkweb = "https://ngocrongmabu.online/";
 		lengthServer = new int[3];
 		isGetData = false;
 		testConnect = -1;
