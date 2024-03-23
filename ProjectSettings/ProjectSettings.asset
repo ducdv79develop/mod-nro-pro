@@ -881,11 +881,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 773ce88a-5e73-41c6-adb5-76b53b777b4e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: ios
+  organizationId: unity_66f8e10cbc1ff2341839
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 

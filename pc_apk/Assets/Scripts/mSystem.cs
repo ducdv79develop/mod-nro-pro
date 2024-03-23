@@ -252,7 +252,7 @@ public class mSystem
 
 	public static void callHotlinePC()
 	{
-		Application.OpenURL("https://nrobluez.me/");
+		Application.OpenURL("https://ngocrongmabu.online/");
 	}
 
 	public static void callHotlineJava()

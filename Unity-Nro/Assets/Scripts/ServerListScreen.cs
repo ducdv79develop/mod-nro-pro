@@ -1047,7 +1047,7 @@ public class ServerListScreen : mScreen, IActionListener
 		javaE = "Universe 1:52.74.230.22:14445:1,1,0";
 		linkGetHost = "http://sv1.ngocrongonline.com/game/ngocrong031_t.php";
 		linkDefault = javaVN;
-		linkweb = "Dragon Ball 9";
+		linkweb = "Ngoc Rong Mabu";
 		lengthServer = new int[3];
 		isGetData = false;
 		testConnect = -1;

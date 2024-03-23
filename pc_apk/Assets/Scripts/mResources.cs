@@ -1143,9 +1143,9 @@ public class mResources
 	{
 		language = newLanguage;
 	
-			LoginScr.imgTitle = GameCanvas.loadImage("/mainImage/logo1.png");
+			LoginScr.imgTitle = GameCanvas.loadImage("/mainImage/logo1E.png");
 			T1.load();
-			ServerListScreen.linkweb = "https://nrobluez.me/";
+			ServerListScreen.linkweb = "https://ngocrongmabu.online/";
 	      	GameCanvas.isLoadRes = true;
 
 

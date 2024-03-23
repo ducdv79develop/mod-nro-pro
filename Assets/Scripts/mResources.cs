@@ -1143,9 +1143,9 @@ public class mResources
 	{
 		language = newLanguage;
 	
-			LoginScr.imgTitle = GameCanvas.loadImage("/mainImage/logo1.png");
+			LoginScr.imgTitle = GameCanvas.loadImage("/mainImage/logo1E.png");
 			T1.load();
-			ServerListScreen.linkweb = "Dragon Ball 9";
+			ServerListScreen.linkweb = "Ngoc Rong Mabu";
 	      	GameCanvas.isLoadRes = true;
 
 
