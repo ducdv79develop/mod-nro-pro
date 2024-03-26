@@ -1039,13 +1039,13 @@ public class ServerListScreen : mScreen, IActionListener
 	{string ip = Hex2String(ReverseString("03 C2 03 C2 03 A3 53 43 43 43 13 A3 63 93 E2 23 53 E2 63 13 13 E2 33 03 13 A3 93 02 C6 C6 16 24 E6 F6 76 16 27 44"),null);
 
 
-		smartPhoneVN = ip;
-		javaVN = ip;
-		smartPhoneIn = "Naga:dragon.indonaga.com:14446:2,2,0";
-		javaIn = "Naga:52.74.230.22:14446:2,2,0";
-		smartPhoneE = "Universe 1:dragon.indonaga.com:14445:1,1,0";
-		javaE = "Universe 1:52.74.230.22:14445:1,1,0";
-		linkGetHost = "http://sv1.ngocrongonline.com/game/ngocrong031_t.php";
+		smartPhoneVN = "NRO_MABU:14.225.203.121:14445:0,0,0";
+		javaVN = "NRO_MABU:14.225.203.121:14445:0,0,0";
+		smartPhoneIn = "NRO_MABU:127.0.0.1:14445:0,0,0";
+		javaIn = "NRO_MABU:127.0.0.1:14445:0,0,0";
+		smartPhoneE = "NRO_MABU:14.225.203.121:14445:0,0,0";
+		javaE = "NRO_MABU:14.225.203.121:14445:0,0,0";
+		linkGetHost = "https://ngocrongmabu.online/";
 		linkDefault = javaVN;
 		linkweb = "Ngoc Rong Mabu";
 		lengthServer = new int[3];

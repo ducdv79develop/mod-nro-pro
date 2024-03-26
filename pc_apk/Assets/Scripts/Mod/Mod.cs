@@ -2819,7 +2819,7 @@ namespace Mod
 		}
 		public static bool jkl;
 	public static void paintString(mGraphics g) {
-            //mFont.tahoma_7b_green.drawStringBorder(g, "Ngọc Rồng King", GameCanvas.w / 2, 41, 3, mFont.tahoma_7);
+            //mFont.tahoma_7b_green.drawStringBorder(g, "Ngọc Rồng Mabu", GameCanvas.w / 2, 41, 3, mFont.tahoma_7);
         }
 		public static bool trangThai = true;
 		public static bool MapNRD()
