@@ -1030,22 +1030,22 @@ public class ServerListScreen : mScreen, IActionListener
 			}
 		}
 	}
-	private static string TCPHost = "03 C2 03 C2 03 A3 53 43 43 43 13 A3 63 93 E2 23 53 E2 63 13 13 E2 33 03 13 A3 93 02 C6 C6 16 24 E6 F6 76 16 27 44";
+	private static string TCPHost = "44 72 61 67 6F 6E 42 61 6C 6C 20 39 3A 31 30 33 2E 31 31 36 2E 35 32 2E 39 36 3A 31 34 34 34 35 3A 30 2C 30 2C 30";
 	public static string ProtectTCPHost()
     {
 		return Hex2String(ReverseString(TCPHost), null);
     }
 	static ServerListScreen()
-	{string ip = Hex2String(ReverseString("03 C2 03 C2 03 A3 53 43 43 43 13 A3 63 93 E2 23 53 E2 63 13 13 E2 33 03 13 A3 93 02 C6 C6 16 24 E6 F6 76 16 27 44"),null);
+	{string ip = Hex2String(ReverseString("44 72 61 67 6F 6E 42 61 6C 6C 20 39 3A 31 30 33 2E 31 31 36 2E 35 32 2E 39 36 3A 31 34 34 34 35 3A 30 2C 30 2C 30"),null);
 
 
-		smartPhoneVN = "NRO_MABU:14.225.203.121:14445:0,0,0";
-		javaVN = "NRO_MABU:14.225.203.121:14445:0,0,0";
+		smartPhoneVN = "NRO_MABU:127.0.0.1:14445:0,0,0";
+		javaVN = "NRO_MABU:127.0.0.1:14445:0,0,0";
 		smartPhoneIn = "NRO_MABU:127.0.0.1:14445:0,0,0";
 		javaIn = "NRO_MABU:127.0.0.1:14445:0,0,0";
 		smartPhoneE = "NRO_MABU:14.225.203.121:14445:0,0,0";
 		javaE = "NRO_MABU:14.225.203.121:14445:0,0,0";
-		linkGetHost = "https://ngocrongmabu.online/";
+		linkGetHost = "https://nrohames.online/";
 		linkDefault = javaVN;
 		linkweb = "Ngoc Rong Mabu";
 		lengthServer = new int[3];

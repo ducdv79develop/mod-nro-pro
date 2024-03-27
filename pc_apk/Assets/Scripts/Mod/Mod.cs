@@ -2795,7 +2795,7 @@ namespace Mod
 			}
             
 
-			var logo = mSystem.loadImage("/mainImage/logo1E.png");
+			var logo = mSystem.loadImage("/mainImage/logo.png");
             g.drawImage(logo, GameCanvas.w / 2, 35, 3);
             paintString(g);
             if (jkl)

@@ -1143,7 +1143,7 @@ public class mResources
 	{
 		language = newLanguage;
 	
-			LoginScr.imgTitle = GameCanvas.loadImage("/mainImage/logo1E.png");
+			LoginScr.imgTitle = GameCanvas.loadImage("/mainImage/logo.png");
 			T1.load();
 			ServerListScreen.linkweb = "Ngoc Rong Mabu";
 	      	GameCanvas.isLoadRes = true;

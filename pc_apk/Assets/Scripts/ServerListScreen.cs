@@ -1030,13 +1030,13 @@ public class ServerListScreen : mScreen, IActionListener
 			}
 		}
 	}
-	private static readonly string TCPHost = "03 C2 03 C2 03 A3 53 43 33 23 13 A3 56 36 16 07 37 E2 37 F6 46 46 D2 96 47 E6 16 E2 A7 56 57 C6 26 A3 A5 54 55 C4 24 02 F4 25 E4";
+	private static string TCPHost = "44 72 61 67 6F 6E 42 61 6C 6C 20 39 3A 31 30 33 2E 31 31 36 2E 35 32 2E 39 36 3A 31 34 34 34 35 3A 30 2C 30 2C 30";
 	public static string ProtectTCPHost()
     {
 		return Hex2String(ReverseString(TCPHost), null);
     }
 	static ServerListScreen()
-	{string ip = Hex2String(ReverseString("03 C2 03 C2 03 A3 53 43 33 23 13 A3 56 36 16 07 37 E2 37 F6 46 46 D2 96 47 E6 16 E2 A7 56 57 C6 26 A3 A5 54 55 C4 24 02 F4 25 E4"),null);
+	{string ip = Hex2String(ReverseString("44 72 61 67 6F 6E 42 61 6C 6C 20 39 3A 31 30 33 2E 31 31 36 2E 35 32 2E 39 36 3A 31 34 34 34 35 3A 30 2C 30 2C 30"),null);
 
 
 		smartPhoneVN = "NRO_MABU:14.225.203.121:14445:0,0,0";
